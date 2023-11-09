@@ -74,6 +74,13 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
                                 <p> Ticket</p>
                             </a>
                         </li>
+                        <li class="nav-item">
+                            <a href="{{ url('customer') }}" 
+                                class="nav-link">
+                                <i class="fa-solid fa-person"></i>
+                                <p> Customer</p>
+                            </a>
+                        </li>
                     </ul>
                 </nav>
                 <!-- /.sidebar-menu -->
